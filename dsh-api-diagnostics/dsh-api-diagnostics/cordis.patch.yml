@@ -1,4 +1,0 @@
-- insert:
-    - id: local-api-diagnostics
-      name: '@local/dsh-api-diagnostics'
-      config: {}
